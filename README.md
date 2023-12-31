@@ -45,4 +45,4 @@ Dataset
 Visit the Kaggle Datasets page:https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection
 
 
-This project is licensed under the [License Name] - see the [LICENSE.md] file for details.
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE] - see the [LICENSE.md] file for details.
